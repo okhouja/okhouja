@@ -16,9 +16,6 @@
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=okhouja&&hide=CSS&layout=compact&theme=chartreuse-dark)
 
-##### Connect with me: 📫
-
-<a href="mailto:omar0940@gmail.com"> Write me E-mail </a>
 
 <!--
 **okhouja/okhouja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
