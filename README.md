@@ -1,7 +1,7 @@
 ### Hello, I'm <a href="https://github.com/okhouja">Omar!</a> 👋
 
 - 🌱 I’m currently Web Dev student @ <a href="https://digitalcareerinstitute.org/">Digital Career Institute. </a>
-- <img src='https://github.githubassets.com/images/icons/emoji/unicode/1f945.png' width="21px"> My goal: Become Full Stack Developer.
+- <img src='https://github.githubassets.com/images/icons/emoji/unicode/1f945.png' width="21px"> My goal: Becoming Full Stack Web Developer.
 - ⚡ Fun fact: **Mind Your Langauge** my Favourite Show.
 - 📫 **Connect with me**:
 
