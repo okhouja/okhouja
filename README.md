@@ -2,12 +2,8 @@
 
 <p> 🌱 I’m currently Web Dev student @ <a href="https://digitalcareerinstitute.org/">Digital Career Institute </a>   </p>
 ⚡ Fun fact: **Mind Your Langauge** my Favourite Show.
-### Skills/Learning
-- React JS, - Vanilla JS, SASS, HTML, CSS
-<img src='https://github.com/okhouja/okhouja/blob/main/css3.svg' width="50px">
-<img src='./img/html5.svg' width="50px">
-<img src='./img/css3.svg' width="50px">
-<img src='./img/github.svg' width="50px">
+### Languages and Tools:
+<img src='https://github.com/okhouja/okhouja/blob/main/react.svg' width="50px"><img src='https://github.com/okhouja/okhouja/blob/main/js.svg' width="50px"><img src='https://github.com/okhouja/okhouja/blob/main/html5.svg' width="50px"><img src='https://github.com/okhouja/okhouja/blob/main/css3.svg' width="50px"><img src='https://github.com/okhouja/okhouja/blob/main/gmail.svg' width="50px">
 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width:100%;">
 
