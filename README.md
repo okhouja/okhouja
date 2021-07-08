@@ -4,7 +4,7 @@
 ⚡ Fun fact: **Mind Your Langauge** my Favourite Show.
 ### Skills/Learning
 - React JS, - Vanilla JS, SASS, HTML, CSS
-<img src='./img/js.svg' width="50px">
+<img src='https://github.com/okhouja/okhouja/blob/main/css3.svg' width="50px">
 <img src='./img/html5.svg' width="50px">
 <img src='./img/css3.svg' width="50px">
 <img src='./img/github.svg' width="50px">
