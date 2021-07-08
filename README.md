@@ -1,7 +1,7 @@
 ### Hello, I'm <a href="https://github.com/okhouja">Omar!</a> 👋
 
 <p> 🌱 I’m currently Web Dev student @ <a href="https://digitalcareerinstitute.org/">Digital Career Institute </a>   </p>
-⚡ Fun fact: **Mind Your Langauge** my Favourite Show.
+<p>⚡ Fun fact: **Mind Your Langauge** my Favourite Show.</p>
 
 ### Languages and Tools:
 <p><img src='https://github.com/okhouja/okhouja/blob/main/react.svg' width="50px"><img src='https://github.com/okhouja/okhouja/blob/main/js.svg' width="50px"><img src='https://github.com/okhouja/okhouja/blob/main/html5.svg' width="50px"><img src='https://github.com/okhouja/okhouja/blob/main/css3.svg' width="50px"><img src='https://github.com/okhouja/okhouja/blob/main/gmail.svg' width="50px"></p>
