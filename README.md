@@ -5,7 +5,6 @@
 ### Languages and Tools:
 <img src='https://github.com/okhouja/okhouja/blob/main/react.svg' width="50px"><img src='https://github.com/okhouja/okhouja/blob/main/js.svg' width="50px"><img src='https://github.com/okhouja/okhouja/blob/main/html5.svg' width="50px"><img src='https://github.com/okhouja/okhouja/blob/main/css3.svg' width="50px"><img src='https://github.com/okhouja/okhouja/blob/main/gmail.svg' width="50px">
 
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width:100%;">
 
 ![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=okhouja&show_icons=true&theme=chartreuse-dark)
 
