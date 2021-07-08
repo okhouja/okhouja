@@ -2,8 +2,9 @@
 
 <p> 🌱 I’m currently Web Dev student @ <a href="https://digitalcareerinstitute.org/">Digital Career Institute </a>   </p>
 ⚡ Fun fact: **Mind Your Langauge** my Favourite Show.
+
 ### Languages and Tools:
-<img src='https://github.com/okhouja/okhouja/blob/main/react.svg' width="50px"><img src='https://github.com/okhouja/okhouja/blob/main/js.svg' width="50px"><img src='https://github.com/okhouja/okhouja/blob/main/html5.svg' width="50px"><img src='https://github.com/okhouja/okhouja/blob/main/css3.svg' width="50px"><img src='https://github.com/okhouja/okhouja/blob/main/gmail.svg' width="50px">
+<p><img src='https://github.com/okhouja/okhouja/blob/main/react.svg' width="50px"><img src='https://github.com/okhouja/okhouja/blob/main/js.svg' width="50px"><img src='https://github.com/okhouja/okhouja/blob/main/html5.svg' width="50px"><img src='https://github.com/okhouja/okhouja/blob/main/css3.svg' width="50px"><img src='https://github.com/okhouja/okhouja/blob/main/gmail.svg' width="50px"></p>
 
 
 ![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=okhouja&show_icons=true&theme=chartreuse-dark)
