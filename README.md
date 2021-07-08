@@ -13,8 +13,7 @@
 
 ![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=okhouja&show_icons=true&theme=chartreuse-dark)
 
-![Most Used Languages]
-(https://github-readme-stats.vercel.app/api/top-langs/?username=okhouja&&hide=CSS&layout=compact&theme=chartreuse-dark)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=okhouja&&hide=CSS&layout=compact&theme=chartreuse-dark)
 
 ##### Connect with me: 📫
 
