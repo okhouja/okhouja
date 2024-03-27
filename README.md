@@ -2,7 +2,7 @@
 
 - 🌱 I’m finsihed **Full Stack Web Development (**MERN Stack**)** and  <a href="https://www.credly.com/badges/126b1aa5-c8f5-4ae4-93ca-839e829ff8e5"> **AWS Restart Program** </a> with <a href="https://www.credly.com/badges/2cf5e679-056b-4868-8cfa-4f447902cdb8"> **AWS Cloud Practitioner Certification** </a>  @ <a href="https://digitalcareerinstitute.org/">Digital Career Institute. </a>
 - 🔭 I’m currently learning online on Udemy and AWS 
-- <img src='https://github.githubassets.com/images/icons/emoji/unicode/1f945.png' width="21px"> My goal: Becoming Full Stack Web Developer and DEVOPS engineer.
+- <img src='https://github.githubassets.com/images/icons/emoji/unicode/1f945.png' width="21px"> My goal: Becoming *Full Stack Web Developer* and **DevOps engineer**.
 - ⚡ Fun fact: **DevOps is like a well-choreographed dance between developers and operations teams. It’s not just about tools; it’s about people, process, and collaboration. Imagine developers and operators doing the tango with automation scripts! 💃🕺.**
 - 🎉 **Certification**: - <a href="https://www.credly.com/badges/2cf5e679-056b-4868-8cfa-4f447902cdb8"> **AWS Cloud Practitioner Certification** </a> & <a href="https://www.credly.com/badges/56b237da-e91b-45f2-a583-f330ff63a28c"> **AWS Certified Developer – Associate** </a>
 -  📫 **Connect with me**:
