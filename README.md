@@ -4,7 +4,7 @@
 - 🔭 I’m currently learning online on Udemy and AWS 
 - <img src='https://github.githubassets.com/images/icons/emoji/unicode/1f945.png' width="21px"> My goal: Becoming Full Stack Web Developer and DEVOPS engineer.
 - ⚡ Fun fact: **DevOps is like a well-choreographed dance between developers and operations teams. It’s not just about tools; it’s about people, process, and collaboration. Imagine developers and operators doing the tango with automation scripts! 💃🕺.**
-- 🎉 **Certification**: - **AWS Cloud Practitioner Certification** & **AWS Certified Developer – Associate**
+- 🎉 **Certification**: - <a href="https://www.credly.com/badges/2cf5e679-056b-4868-8cfa-4f447902cdb8"> **AWS Cloud Practitioner Certification** </a> & <a href="https://www.credly.com/badges/56b237da-e91b-45f2-a583-f330ff63a28c"> **AWS Certified Developer – Associate** </a>
 -  📫 **Connect with me**:
 
 <p align="center">
