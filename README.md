@@ -8,7 +8,7 @@
 -  📫 **Connect with me**:
 
 <p align="center">
-<a href="mailto:omar0940@gmail.com"   ><img  width="100px" src='https://github.com/okhouja/okhouja/blob/main/gmail.svg'></a> </p>
+<a href="mailto:omar0940@gmail.com"   ><img  width="100px" src='https://github.com/okhouja/okhouja/blob/main/icons8-gmail-200.svg'></a> </p>
 
 <!--
 ### Languages and Tools:
