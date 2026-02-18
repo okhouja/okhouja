@@ -1,36 +1,65 @@
-### Hello, I'm <a href="https://github.com/okhouja">Omar!</a> 👋
-
-- 🌱 I’m finsihed **Full Stack Web Development (**MERN Stack**)** and  <a href="https://www.credly.com/badges/126b1aa5-c8f5-4ae4-93ca-839e829ff8e5"> **AWS Restart Program** </a> with <a href="https://www.credly.com/badges/2cf5e679-056b-4868-8cfa-4f447902cdb8"> **AWS Cloud Practitioner Certification** </a>  @ <a href="https://digitalcareerinstitute.org/">Digital Career Institute. </a>
-- 🔭 I’m currently learning online on Udemy and AWS 
-- <img src='https://github.githubassets.com/images/icons/emoji/unicode/1f945.png' width="21px"> My goal: Becoming *Full Stack Web Developer* and **DevOps engineer**.
-- ⚡ Fun fact: **DevOps is like a well-choreographed dance between developers and operations teams. It’s not just about tools; it’s about people, process, and collaboration. Imagine developers and operators doing the tango with automation scripts! 💃🕺.**
-- 🎉 **Certification**: - <a href="https://www.credly.com/badges/2cf5e679-056b-4868-8cfa-4f447902cdb8"> **AWS Cloud Practitioner Certification** </a> & <a href="https://www.credly.com/badges/56b237da-e91b-45f2-a583-f330ff63a28c"> **AWS Certified Developer – Associate** </a>
--  📫 **Connect with me**:
+<h1 align="center">Hi, I'm Omar 👋</h1>
 
 <p align="center">
-<a href="mailto:omar0940@gmail.com"   ><img  width="100px" src='https://github.com/okhouja/okhouja/blob/main/icons8-gmail-200.png'></a> </p>
+DevOps & Multi-Cloud Engineer (AWS | Azure) • Backend Systems Builder • Artist Engineer
+</p>
 
-<!--
-### Languages and Tools:
-<p><img src='https://github.com/okhouja/okhouja/blob/main/react.svg' width="50px"><img src='https://github.com/okhouja/okhouja/blob/main/js.svg' width="50px"><img src='https://github.com/okhouja/okhouja/blob/main/html5.svg' width="50px"><img src='https://github.com/okhouja/okhouja/blob/main/css3.svg' width="50px"><img src='https://github.com/okhouja/okhouja/blob/main/gmail.svg' width="50px"></p>
--->
+---
 
-![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=okhouja&show_icons=true&theme=chartreuse-dark)
+## 🧠 About Me
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=okhouja&&hide=CSS&layout=compact&theme=chartreuse-dark)
+I design and build scalable cloud-native systems with a strong focus on automation, backend architecture, and structured workflows.
 
+My work spans across:
 
-<!--
-**okhouja/okhouja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Cloud architecture (AWS & Azure)
+- CI/CD & Infrastructure as Code
+- Backend-driven systems & APIs
+- Modular commerce & automation platforms
+- AI-assisted creative systems (CloudBeats AI)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Focus
+
+- Designing intelligent automation systems  
+- Building scalable backend architectures  
+- Exploring the intersection of cloud infrastructure & creative technology  
+
+---
+
+## 🛠 Tech Stack
+
+**Cloud & DevOps**
+- AWS
+- Microsoft Azure
+- CI/CD pipelines
+- Infrastructure as Code
+
+**Backend & Systems**
+- Node.js
+- REST APIs
+- Databases (SQL / NoSQL)
+- System architecture & automation design
+
+---
+
+## 🎓 Certifications
+
+- AWS Certified Developer – Associate  
+- AWS Cloud Practitioner  
+- Microsoft Azure Fundamentals (AZ-900)
+
+---
+
+## 🌍 Connect
+
+- 🌐 https://cloudbeats.ai  
+- 💼 https://www.linkedin.com/in/omar-khouja/  
+- 📧 info@cloudbeats.ai  
+
+---
+
+<p align="center">
+Building systems where architecture meets automation — and occasionally, sound.
+</p>
